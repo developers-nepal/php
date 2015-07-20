@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="home">
+
+  <h1>Meetups</h1>
+
+  <ul class="post-list">
+    {% for meetup in site.meetup %}
+      <li>
+          <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">{{ meetup.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Posts</h2>
+
+  <ul class="post-list">
+    {% for meetup in site.posts %}
+      <li>
+          <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">{{ meetup.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
