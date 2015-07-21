@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to PHP Developers Nepal!"
 date:   2015-07-20 22:34:50
-categories: jekyll update
+categories: php
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+We are group of PHP and related web technology enthusiasts. The main purpose of this group is to network among the fellow developers and help each others. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We are planning to have meetup named PHPDev Meetup on regular basis. Till now we have already done 13 meetups. We plan do do other kinds of events too. If you want to present in the next meetup please [submit](http://bit.ly/php-np-talk) your presentation/talk with a title and ~150 word abstact.
 
-Jekyll also offers powerful support for code snippets:
+## Rules for presenters/speakers
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+1. Topics related to PHP, general web development and technology WILL be given priority.
+1. Topics and presentation/talk related to new tools/technology and sharing practical experience and use cases WILL be given higher priority.
+1. New speakers WILL be given more preference than speakers who have already spoken in previous meetups.
+1. Each presentation/talk WILL be allocated 30 minutes with maximum of 25 minutes for talk/presentation and 5 minutes for question and answer session. Please plan your presentation and slides accordingly.
+1. Speakers MUST submit the topic and abstract at least a week before the meetup date.
+1. Speakers MUST submit the the presentation URL at least one day before the meetup date.
+1. Decision on the talk selection by the organizing group WILL be final.
+1. Decision on the presentation sequence and time done by organizing group WILL be final.
+1. Presentation time for hands on workshop or demo type presentation/talk WILL be dealt in a case by case basis.
