@@ -5,8 +5,9 @@ layout: default
 
   <h1>Meetups</h1>
 
+  {% assign sortedMeetups = site.meetup | sort: 'date' | reverse %}
   <ul class="post-list">
-    {% for meetup in site.meetup %}
+    {% for meetup in sortedMeetups %}
       <li>
           <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">{{ meetup.title }}</a>
       </li>
@@ -14,7 +15,6 @@ layout: default
   </ul>
 
   <h2>Posts</h2>
-
   <ul class="post-list">
     {% for meetup in site.posts %}
       <li>
