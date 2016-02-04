@@ -1,0 +1,29 @@
+---
+layout: meetup
+title: "Meetup #15 - 16 Jan 2016"
+date: 2016-01-16
+permalink: /meetups/26-Jan-2016/
+venue:
+  name: "Verisk Information Technologies"
+  address: "429 Hattisar Sadak, Kathmandu, Nepal PO Box 6058"
+  lat: "27.713058"
+  lon: "85.3198817"
+talks:
+  - speakers:
+      - name: "Ujjwal Ojha"
+    title: "Middleware Pattern in PHP"
+    prezi: "#"
+  - speakers:
+      - name: "Prashant Shrestha"
+    title: "Docker for PHP Developers"
+    prezi: "#"
+  - speakers:
+      - name: "Sumit Chhetri"
+    title: "7 Golden rules of Clean, simple and maintainable code"
+    prezi: "#"
+fb: "https://www.facebook.com/events/1629401980657009/"
+---
+
+Blogs from the event :
+
+Comments from the event :
