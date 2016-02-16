@@ -8,7 +8,7 @@ We are group of PHP and related web technology enthusiasts. The main purpose of 
 This website contains community wiki and knowledge base for the PHP Developers Community, Nepal.
 
 We are planning to have meet-ups named PHP developers Meetup on regular basis.
-Till now we have already done 13 meetups, 14th one is on 5-Sep-2015. We plan to do other kinds of events too.
+Till now we have already done 15 meetups, 15th one is on 16-Jan-2016. We plan to do other kinds of events too.
 If you want to present in the next meetup please [submit](http://bit.ly/php-np-talk) your presentation/talk with a title and ~150 word abstact.
 
 ## Rules for presenters/speakers
