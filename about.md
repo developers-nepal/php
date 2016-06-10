@@ -40,9 +40,3 @@ be dealt in a case by case basis.
 If you feel the above information is insufficient then you can always send us
 pull request. Feel free to fork and update this document. Our github repository
 is [https://github.com/developers-nepal/php](https://github.com/developers-nepal/php).
-
-## Join us
-
-You can find us on:
-- [Facebook](https://www.facebook.com/groups/109070762572263/)
-- [Slack Channel](http://bit.ly/phpnp-slack)
