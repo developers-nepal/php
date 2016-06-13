@@ -9,7 +9,9 @@ layout: default
   <ul class="post-list">
     {% for meetup in sortedMeetups %}
       <li>
-          <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">{{ meetup.title }}</a>
+          <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">
+            {{ meetup.title }}
+          </a>
       </li>
     {% endfor %}
   </ul>
@@ -18,7 +20,9 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
       </li>
     {% endfor %}
   </ul>
