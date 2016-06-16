@@ -5,23 +5,12 @@ layout: default
 
   <h1>Meetups</h1>
 
-  {% assign sortedMeetups = site.meetup | sort: 'date' | reverse %}
+  {% assign sortedMeetups = site.meetup | sort: 'date'| reverse %}
   <ul class="post-list">
     {% for meetup in sortedMeetups %}
       <li>
           <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">
             {{ meetup.title }}
-          </a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>Posts</h2>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.title }}
           </a>
       </li>
     {% endfor %}
