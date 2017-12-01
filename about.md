@@ -37,6 +37,6 @@ be final.
 be dealt in a case by case basis.
 
 ## Want to update this document
-If you feel the above information is insufficient then you can always send us
+If you feel the above information is insufficient then you can always send us a
 pull request. Feel free to fork and update this document. Our github repository
 is [https://github.com/developers-nepal/php](https://github.com/developers-nepal/php).
