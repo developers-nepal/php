@@ -12,6 +12,7 @@ layout: default
           <a class="post-link" href="{{ meetup.url | prepend: site.baseurl }}">
             {{ meetup.title }}
           </a>
+          <small class="post-location"> {{ meetup.venue.name }} </small>
       </li>
     {% endfor %}
   </ul>
